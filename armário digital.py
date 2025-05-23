@@ -13,3 +13,4 @@ ocasiao = st.selectbox(
 if ocasiao:
     st.write(f"Vamos montar um look para: **{ocasiao}**")
 
+
